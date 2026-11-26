@@ -1,7 +1,12 @@
 
 # Hi I'm Joshua
 
-![Mobile, Frontend and Full-Stack Software Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&size=22&center=false&width=520&height=45&lines=Mobile+Engineer+%7C+React+Native;Frontend+Engineer+%7C+React+%2B+TypeScript;Full-Stack+Software+Engineer&color=58A6FF#gh-dark-mode-only)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&size=22&center=false&width=520&height=45&lines=Mobile+Engineer+%7C+React+Native;Frontend+Engineer+%7C+React+%2B+TypeScript;Full-Stack+Software+Engineer&color=58A6FF#gh-dark-mode-only"
+  alt="Mobile, Frontend and Full-Stack Software Engineer"
+  height="34"
+/>
+
 ## 👋 About me
 
 - 📱 5+ years building mobile apps in **React Native** and web apps in **React.js**
@@ -38,7 +43,7 @@ NestJS · FastAPI · GraphQL · PostgreSQL · AWS Lambda, SQS, S3
 
 ## ⚡ Fun fact
 
-I enjoy dancing 🕺🏻, and I've had the opportunity to compete in dance competitions. One of my performances is featured in this video: https://www.youtube.com/watch?v=rhG55Sj4nVo
+I enjoy dancing 🕺🏻 and I've had the opportunity to compete in dance competitions. One of my performances is featured in this video: https://www.youtube.com/watch?v=rhG55Sj4nVo
 
 ## 📫 Let's connect
 
